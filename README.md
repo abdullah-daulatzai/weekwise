@@ -13,7 +13,11 @@ Future updates will include additional features, such as calorie tracking and st
 * Future updates will include calorie tracking and step-counting features
 * Dynamic reports based on spending data and health metrics
 
-This repo includes:
+## Tech Stack
+* Frontend: React, TypeScript, CSS
+* Backend: Node.js, Express.js
+* Database: SQLite3, Knex.js
+* Other Technologies: JavaScript
 
 * a single, simple API endpoint (`/api/v1/fruits`)
 * a single React component (`<App />`)
