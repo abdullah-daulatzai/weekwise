@@ -6,7 +6,12 @@ WeekWise is a productivity app focused on personal finance management and health
 
 Future updates will include additional features, such as calorie tracking and step-counting, to further enhance your productivity and health awareness.
 
-### What's included
+## Features
+* Track daily expenses and categorize items
+* View detailed reports over a 6-month period to analyze spending habits
+* Identify unnecessary purchases that can help users make better financial decisions
+* Future updates will include calorie tracking and step-counting features
+* Dynamic reports based on spending data and health metrics
 
 This repo includes:
 
