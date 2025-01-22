@@ -20,11 +20,20 @@ Future updates will include additional features, such as calorie tracking and st
 * Other Technologies: JavaScript
 
 
-### Installation
+## Installation
 
-#### **From the Github UI**
+* ### Clone the repository:
+https://github.com/abdullah-daulatzai/weekwise.git
 
-See the instructions [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) to use Github's feature to create a new repo from a template.
+* ### Navigate into the repository:
+cd week_wise
+
+* ### Install dependencies/packages:
+npm install 
+
+* ### Run the development server:
+  npm run dev
+* ### Access the app in your browser: Visit http: //localhost:5173 to see the app in action.
 
 #### **From the command line**
 
