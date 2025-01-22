@@ -23,17 +23,17 @@ Future updates will include additional features, such as calorie tracking and st
 ## Installation
 
 * ### Clone the repository:
-https://github.com/abdullah-daulatzai/weekwise.git
+`https://github.com/abdullah-daulatzai/weekwise.git`
 
 * ### Navigate into the repository:
-cd week_wise
+`cd week_wise`
 
 * ### Install dependencies/packages:
-npm install 
+`npm install` 
 
 * ### Run the development server:
-  npm run dev
-* ### Access the app in your browser: Visit http: //localhost:5173 to see the app in action.
+ `npm run dev`
+* ### Access the app in your browser: Visit http: `//localhost:5173 to see the app in action`.
 
 #### **From the command line**
 
