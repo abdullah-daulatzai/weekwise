@@ -1,6 +1,10 @@
-# Boilerplate: Fullstack with Sass
+# WeekWise
+Welcome to the WeekWise README! This guide will walk you through everything you need to get started with the app.
 
-## Setup
+## Overview
+WeekWise is a productivity app focused on personal finance management and health tracking. It helps users monitor their daily expenses and identify patterns in their spending habits over time. The app features a unique financial analysis tool, inspired by a TED talk from a finance expert, who assisted people in becoming more aware of their unnecessary spending by analysing their habits over a six-month period. WeekWise demonstrates how small, seemingly insignificant purchases, such as energy drinks, can accumulate into substantial amounts over time, helping users make more informed financial decisions.
+
+Future updates will include additional features, such as calorie tracking and step-counting, to further enhance your productivity and health awareness.
 
 ### What's included
 
