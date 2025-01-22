@@ -41,14 +41,11 @@ Future updates will include additional features, such as calorie tracking and st
 The financial analysis tool works by storing and processing user input in the database. The system then tracks expenses and generates reports to show users how much they have spent on each category. Over time, the app identifies recurring purchases and helps users pinpoint where they can cut back.
 For example, if a user spends money frequently on energy drinks during periods of fatigue, WeekWise will highlight this habit and show the total amount spent over time. This helps users become more conscious of their spending behavior and encourages smarter financial decisions.
 
-```
-git clone https://github.com/dev-academy-challenges/boilerplate-fullstack [your-project-name]
-cd [your-project-name]
-npm install # to install dependencies
-npm run dev # to start the dev server
-```
 
-You can find the server running on [http://localhost:3000](http://localhost:3000) and the client running on [http://localhost:5173](http://localhost:5173).
+## Future Improvements
 
----
-[Provide feedback on this repo](https://docs.google.com/forms/d/e/1FAIpQLSfw4FGdWkLwMLlUaNQ8FtP2CTJdGDUv6Xoxrh19zIrJSkvT4Q/viewform?usp=pp_url&entry.1958421517=boilerplate-fullstack)
+* Expand financial analysis features: Provide more granular reports on specific categories of spending.
+* Calorie tracking enhancements: Automatically calculate calories based on common food items.
+* Step counting optimization: Integrate with wearables to track steps automatically.
+* Improved visualization: Add more data visualization to make reports easier to understand.
+
